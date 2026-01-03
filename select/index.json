@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねえ、ダリア",
+  "base_artist": "吐息.",
+  "createdAt": "2026-01-03T06:45:54.839710Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねえ、ダリア (feat. 相沢)",
+      "artist": "吐息.",
+      "has_synced": false,
+      "path": "select/pl_01_ねえ、ダリア_(feat._相沢)_吐息..txt"
+    }
+  ]
+}
